@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rjacobgray
+- 👀 I’m interested in ... learning more about GitHub and finding out what is interesting.
+- I am open to any suggestions that someone new on Github should take a look at. 
